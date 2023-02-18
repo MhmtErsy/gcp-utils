@@ -2,6 +2,6 @@
 
 - <ins> bigquery_migration.py </ins>: <br /> python3 bigquery_migration.py \\<br />
                          --source_project_id my-legacy \\<br />
-                         --source_dataset_id my-oldies \\<br />
+                         --source_dataset_id my_oldies \\<br />
                          --target_project_id new-hope \\<br />
                          --target_dataset_id goods
